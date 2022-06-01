@@ -43,10 +43,10 @@ import hashlib
 
 To run the program, run the Streamlit application in the terminal by using `streamlit run pychain.py
 
-Screenshot of sample data:
+Screenshot of program with sample data:
 
-![Alt text](Screenshot1.png)
-![Alt text](Screenshot2.png)![Alt text](Screenshot3.png)
+
+![Alt text](Screenshot2.png)![Alt text](Screenshot3.png)![Alt text](Screenshot1.png)
 
 ---
 
