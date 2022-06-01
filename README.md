@@ -45,8 +45,8 @@ To run the program, run the Streamlit application in the terminal by using `stre
 
 Screenshot of sample data:
 
-![Alt text](screenshot1.png)
-![Alt text](screenshot2.png)![Alt text](screenshot3.png)
+![Alt text](Screenshot1.png)
+![Alt text](Screenshot2.png)![Alt text](Screenshot3.png)
 
 ---
 
